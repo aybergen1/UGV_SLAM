@@ -1,5 +1,7 @@
 # UGV_SLAM Project
 
+But i make project do slam on 2d map for automation navigation(creating a map in an unknown environment) 
+ 
 ## Overview
 The **UGV_SLAM** project is designed to implement a robust Simultaneous Localization and Mapping (SLAM) system for an Unmanned Ground Vehicle (UGV). The system utilizes sensors such as LIDAR, cameras, and an IMU to enable the UGV to navigate autonomously through unknown environments while simultaneously creating and updating a map of the surroundings.
 
